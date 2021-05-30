@@ -1,3 +1,1 @@
-learn git fast and move on to next stage.
-go through many vedios to understand better.
-one more change i did
+git is good version control system
